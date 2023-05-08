@@ -1,0 +1,22 @@
+.navbar-main-div{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.navbar-width-div{
+    width: 100%;
+}
+
+.navbar-content-div{
+    justify-content: space-between;
+    display: flex;
+    background-color: aqua;
+    cursor: pointer;
+    padding: 20px;
+}
+
+.second-content-div{
+    display: flex;
+    gap: 80px;
+}
